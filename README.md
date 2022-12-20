@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :school_satchel: I’m currently a Computer Science Student at the University of Waterloo
-- 🌱 I’m currently a project developer on [@uwblueprint](https://uwblueprint.org/) & logistics coordinator [@technova](https://www.itstechnova.org/)
+- 🌱 I’m currently a project developer on [@uwblueprint](https://uwblueprint.org/) & logistics coordinator + 2023 co-director [@technova](https://www.itstechnova.org/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/julianne-jorda/) [Email](mailto:julianne.jorda@yahoo.com)
 
 [![Julianne's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliannejorda&hide=issues,stars&count_private=true&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
