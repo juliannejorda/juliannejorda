@@ -2,8 +2,9 @@
 
 - :school_satchel: I’m currently a Computer Science Student at the University of Waterloo
 - 💻 Previously interned as a Software Developer @ Amazon, Wealthsimple, Questrade, Sun Life, & Loadlink
-- 🌱 2023 Co-Director & 2022 Logistics Coordinator [@technova](https://www.itstechnova.org/) + 2022 Project Developer [@uwblueprint](https://uwblueprint.org/)
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/julianne-jorda/) [Email](mailto:julianne.jorda@yahoo.com)
+- 🌱 2023 Co-Director & 2022 Logistics Coordinator [@TechNova](https://www.itstechnova.org/) (University of Waterloo's Women+ in Tech Hackathon) + 2022 Project Developer [@UWBlueprint](https://uwblueprint.org/) (Creates technological solutions for non-profits) 
+- 👾 I enjoy going to the gym, cooking, playing video games (currently playing Persona 5), and travelling (I recently went on a trip to Japan in September 2024)! 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/julianne-jorda/) [Email](mailto:jordajulianne@gmail.com)
 <!--
 [![Julianne's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=juliannejorda&hide=issues,stars&count_private=true&show_icons=true&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
