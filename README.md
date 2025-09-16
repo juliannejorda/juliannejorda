@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :school_satchel: I’m currently a Computer Science Student at the University of Waterloo
-- 💻 Previously interned as a Software Developer @ Amazon, Wealthsimple, Questrade, Sun Life, & Loadlink
+- 💻 Previously interned as a Software Developer @ Google, Amazon, Wealthsimple, Questrade, Sun Life, & Loadlink
 - 🌱 2023 Co-Director & 2022 Logistics Coordinator [@TechNova](https://www.itstechnova.org/) (University of Waterloo's Women+ in Tech Hackathon) + 2022 Project Developer [@UWBlueprint](https://uwblueprint.org/) (Creates technological solutions for non-profits) 
 - 👾 I enjoy going to the gym, cooking, playing video games (currently playing Persona 5), and travelling (I recently went on a trip to Japan in September 2024)! 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/julianne-jorda/) [Email](mailto:jordajulianne@gmail.com)
